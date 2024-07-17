@@ -1,7 +1,7 @@
 ## String parsing (Very important for input processing in CP)
 Get familiar with all variables in `string` module (`import string`) and string methods!
 
-### Write code to do the following:
+### Write code to convert the inputs below to the outputs:
 
 |Input|Output|Data Type|Notes
 |-|-|-|-|
