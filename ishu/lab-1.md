@@ -56,18 +56,18 @@ Read the file titanic.csv using pandas and answer the following questions using 
 5. Can you implement a simple dashboard using radio buttons for selecting male/female passengers and updating the plots based on what's selected?
 
 ## OOP
-## `Rectangle`
+### `Rectangle`
 1. Create a rectangle object using a dict. What atteributes does a rectangle have
 2. Create a class `Rectangle` which has two attributes: length and width
 2. Use a constructor to set the values
 3. Define two methods area and perimiter and implement them
 
-## Q2
+### `Square`
 1. Design a class `Square`. How many attributes should it have?
 2. Use a constructor to set the values
 3. Define two methods area and perimeter and implement them
 
-## Q3
+#### Problems
 1. Create 3 different rectangle obects and put them in a list
 2. Use a list comprehension to create a new list of all their areas?
 3. Create a list of 5 different square obects using a list comprehension!
@@ -89,7 +89,7 @@ Read the file titanic.csv using pandas and answer the following questions using 
     | address | class|
 
 
-## Q4
+## `Student` class
 Make sure you add __repr__ dunder method for each class!
 
 1. Create `Address` class
