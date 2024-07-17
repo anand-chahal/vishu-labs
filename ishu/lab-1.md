@@ -54,3 +54,47 @@ Read the file titanic.csv using pandas and answer the following questions using 
 4. Do you know what's a histogram? Plot the histogram of the age of male passengers? female passengers?
 
 5. Can you implement a simple dashboard using radio buttons for selecting male/female passengers and updating the plots based on what's selected?
+
+## OOP
+## `Rectangle`
+1. Create a rectangle object using a dict. What atteributes does a rectangle have
+2. Create a class `Rectangle` which has two attributes: length and width
+2. Use a constructor to set the values
+3. Define two methods area and perimiter and implement them
+
+## Q2
+1. Design a class `Square`. How many attributes should it have?
+2. Use a constructor to set the values
+3. Define two methods area and perimeter and implement them
+
+## Q3
+1. Create 3 different rectangle obects and put them in a list
+2. Use a list comprehension to create a new list of all their areas?
+3. Create a list of 5 different square obects using a list comprehension!
+
+1. Create `Address` class with following attributes:
+    | Attribute      | Type |
+    | ----------- | ----------- |
+    | street_num      | int       |
+    | street_name   | str        |
+    | city   | str        |
+    | State | str (two letter code, NJ for example)|
+
+1. Consider a `Student` entity having the following attributes (notice that address is a nested class):
+    | Attribute      | Type |
+    | ----------- | ----------- |
+    | fname      | str       |
+    | lname   | str        |
+    | age   | int        |
+    | address | class|
+
+
+## Q4
+Make sure you add __repr__ dunder method for each class!
+
+1. Create `Address` class
+2. Create two address `objects`
+3. Create a `Student` class which has the above 4 attributes
+    * Define a constructor which takes in 4 arguments and assigns it to its attributes
+    * Define a method call `get_full_name` which concatenates fname and lname
+4. Now create two variables of type Student. Check their type
