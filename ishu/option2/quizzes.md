@@ -1,0 +1,18 @@
+### Topics
+
+* [Primitive data types, rules, & hierarchy](1.md)
+* [ASCII· Arithmetic & increment/decrement operators, precedence](2.md)
+* [Casting and parsing](3.md)
+* [References (variables)](4.md)
+* [Scanner Class and its methods](5.md)
+* [Escape sequences](6.md)
+* [String Class and its methods](7.md)
+* [Math Class and its methods](8.md)
+* [Random class and its methods](9.md)
+* [Loops, accumulators, incrementors](10.md)
+* [Conditional statements: if then else, switch, logical operators](11.md)
+* [Arrays:  declaring, traversing, populating](12.md)
+* [Objects: declaration, scope, fields, references, equality](13.md)
+* [Objects methods: signature lines, constructors, accessors, mutators](14.md)
+* [Static and non-static methods](15.md)
+* [Exception types (errors)](16.md)
